@@ -1,0 +1,41 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual Environment ----
+venv/
+.env/
+.venv/
+env/
+ENV/
+venv.bak/
+
+# ---- IDE Files ----
+.idea/
+.vscode/
+*.iml
+
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Python Build ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Logs ----
+*.log
+
+# ---- Credentials ----
+# (store API keys in .env and never commit it)
+.env
+
+# ---- Notebooks & Data ----
+*.ipynb_checkpoints
+data/
+output/
