@@ -37,7 +37,6 @@ playlist_name = "Reading Soundscape"
 playlist_id = "03zQ7dGtiuYH1GqtG9rXAt"
 output_file = "reading_soundscape_data.json"
 
-
 all_items = []
 results = sp.playlist_tracks(playlist_id, limit=100)
 all_items.extend(results["items"])
@@ -48,16 +47,28 @@ while results["next"]:
 
 print(f"Fetched {len(all_items)} tracks.")
 
+# Build simplified data structure
+clean_tracks = []
+
+for item in all_items:
+    track = item["track"]
+
+    clean_tracks.append({
+        "name": track.get("name"),
+        "artists": [artist["name"] for artist in track.get("artists", [])],
+        "external_url_spotify": track.get("external_urls", {}).get("spotify"),
+        "id": track.get("id"),
+        "uri": track.get("uri")
+    })
+
 data = {
     "playlist_id": playlist_id,
-    "track_count": len(all_items),
-    "tracks": all_items
+    "track_count": len(clean_tracks),
+    "tracks": clean_tracks
 }
 
+# Save to JSON
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
 print(f"Saved playlist data to {output_file}")
-# get each track name and ID
-
-# package ready to add to db
