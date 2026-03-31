@@ -1,0 +1,209 @@
+{
+  "label": "horror",
+  "playlist_id": "7LsuvpoYOgj0zvh6YBpRSh",
+  "track_count": 10,
+  "skipped": 0,
+  "preview_count": 0,
+  "tracks": [
+    {
+      "id": "72AF3XvCTaP8Vp9PMia6WL",
+      "uri": "spotify:track:72AF3XvCTaP8Vp9PMia6WL",
+      "name": "Black Hills Forest",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 75423,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/72AF3XvCTaP8Vp9PMia6WL",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "4KGCb0fPmt4ToLxfpZafVu",
+      "uri": "spotify:track:4KGCb0fPmt4ToLxfpZafVu",
+      "name": "Rustin Parr",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 232264,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/4KGCb0fPmt4ToLxfpZafVu",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "7knS61qPup8lUMTLtux0vZ",
+      "uri": "spotify:track:7knS61qPup8lUMTLtux0vZ",
+      "name": "Camp Fire",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 76607,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/7knS61qPup8lUMTLtux0vZ",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "4xsyIVlwg3LAMQZAZWwUeJ",
+      "uri": "spotify:track:4xsyIVlwg3LAMQZAZWwUeJ",
+      "name": "Panic Attack",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 121505,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/4xsyIVlwg3LAMQZAZWwUeJ",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "57bXa4t2NfMyfti4VIB8wq",
+      "uri": "spotify:track:57bXa4t2NfMyfti4VIB8wq",
+      "name": "Blair Witch",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 347452,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/57bXa4t2NfMyfti4VIB8wq",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "5PUIXitsnbZQi0PQ0wXKJr",
+      "uri": "spotify:track:5PUIXitsnbZQi0PQ0wXKJr",
+      "name": "Lane and Talia",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 122154,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/5PUIXitsnbZQi0PQ0wXKJr",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "73cwXAMkMBj9Uu6tbGVkQK",
+      "uri": "spotify:track:73cwXAMkMBj9Uu6tbGVkQK",
+      "name": "The Project",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 53811,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/73cwXAMkMBj9Uu6tbGVkQK",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "4yedTy7goP5iEVPg5RPyxo",
+      "uri": "spotify:track:4yedTy7goP5iEVPg5RPyxo",
+      "name": "Invocation of Evil",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 386853,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/4yedTy7goP5iEVPg5RPyxo",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "6Z1KsiSXMrmIutUDrJ6h8C",
+      "uri": "spotify:track:6Z1KsiSXMrmIutUDrJ6h8C",
+      "name": "No Trespassing",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 106994,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/6Z1KsiSXMrmIutUDrJ6h8C",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    },
+    {
+      "id": "2kwL4Ytmb8IVRwpTeCfxqR",
+      "uri": "spotify:track:2kwL4Ytmb8IVRwpTeCfxqR",
+      "name": "The House in the Woods",
+      "artists": [
+        "Adam Wingard"
+      ],
+      "artist_id": "0OoZK0v7O6h1xNnEIReGaX",
+      "artist_genres": [],
+      "album": "Blair Witch (Original Motion Picture Soundtrack)",
+      "release_date": "2016-09-16",
+      "duration_ms": 421680,
+      "explicit": false,
+      "spotify_url": "https://open.spotify.com/track/2kwL4Ytmb8IVRwpTeCfxqR",
+      "preview_url": null,
+      "preview_local": null,
+      "added_at": "2026-01-21T09:23:56Z",
+      "audio_features": null,
+      "essentia_features": null
+    }
+  ]
+}

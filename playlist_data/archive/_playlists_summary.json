@@ -1,0 +1,67 @@
+{
+  "reading_soundscape": {
+    "playlist_id": "03zQ7dGtiuYH1GqtG9rXAt",
+    "track_count": 509,
+    "stats": {
+      "avg_valence": null,
+      "avg_energy": null,
+      "avg_instrumentalness": null,
+      "avg_acousticness": null,
+      "avg_tempo": null,
+      "vocal_flagged_count": 0,
+      "vocal_flagged_pct": 0.0
+    }
+  },
+  "space_opera": {
+    "playlist_id": "7lG5FBQLh9SphZt6zMAPSm",
+    "track_count": 305,
+    "stats": {
+      "avg_valence": null,
+      "avg_energy": null,
+      "avg_instrumentalness": null,
+      "avg_acousticness": null,
+      "avg_tempo": null,
+      "vocal_flagged_count": 0,
+      "vocal_flagged_pct": 0.0
+    }
+  },
+  "horror": {
+    "playlist_id": "7LsuvpoYOgj0zvh6YBpRSh",
+    "track_count": 10,
+    "stats": {
+      "avg_valence": null,
+      "avg_energy": null,
+      "avg_instrumentalness": null,
+      "avg_acousticness": null,
+      "avg_tempo": null,
+      "vocal_flagged_count": 0,
+      "vocal_flagged_pct": 0.0
+    }
+  },
+  "space_pirates": {
+    "playlist_id": "6Bbhc9e4fbQiLkFnP1CWlk",
+    "track_count": 328,
+    "stats": {
+      "avg_valence": null,
+      "avg_energy": null,
+      "avg_instrumentalness": null,
+      "avg_acousticness": null,
+      "avg_tempo": null,
+      "vocal_flagged_count": 0,
+      "vocal_flagged_pct": 0.0
+    }
+  },
+  "spy_thriller": {
+    "playlist_id": "1oNnKOronxjSEnXULEbJsZ",
+    "track_count": 93,
+    "stats": {
+      "avg_valence": null,
+      "avg_energy": null,
+      "avg_instrumentalness": null,
+      "avg_acousticness": null,
+      "avg_tempo": null,
+      "vocal_flagged_count": 0,
+      "vocal_flagged_pct": 0.0
+    }
+  }
+}

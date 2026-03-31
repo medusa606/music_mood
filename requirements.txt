@@ -1,4 +1,6 @@
+python-dotenv
 spotipy
 dotenv
-
+pathlib
+yt_dlp
 

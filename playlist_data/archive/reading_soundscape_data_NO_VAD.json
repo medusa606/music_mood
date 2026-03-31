@@ -1,6 +1,6 @@
 {
     "playlist_id": "03zQ7dGtiuYH1GqtG9rXAt",
-    "track_count": 445,
+    "track_count": 509,
     "tracks": [
         {
             "name": "The Boy Main Title",
@@ -4210,6 +4210,657 @@
             "external_url_spotify": "https://open.spotify.com/track/0z8Vk4FmPovmrYttsMcRs8",
             "id": "0z8Vk4FmPovmrYttsMcRs8",
             "uri": "spotify:track:0z8Vk4FmPovmrYttsMcRs8"
+        },
+        {
+            "name": "Dragonborn",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn",
+            "id": "1jLmVI46Yf0jzQkugZReIn",
+            "uri": "spotify:track:1jLmVI46Yf0jzQkugZReIn"
+        },
+        {
+            "name": "Awake",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/4M3MdSvyOWUI8LsGToRkRl",
+            "id": "4M3MdSvyOWUI8LsGToRkRl",
+            "uri": "spotify:track:4M3MdSvyOWUI8LsGToRkRl"
+        },
+        {
+            "name": "From Past to Present",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5tXgla2j12FUmxWX3dhXeO",
+            "id": "5tXgla2j12FUmxWX3dhXeO",
+            "uri": "spotify:track:5tXgla2j12FUmxWX3dhXeO"
+        },
+        {
+            "name": "Unbroken Road",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/13IgcvBjCECZAJF4GLfhS8",
+            "id": "13IgcvBjCECZAJF4GLfhS8",
+            "uri": "spotify:track:13IgcvBjCECZAJF4GLfhS8"
+        },
+        {
+            "name": "Ancient Stones",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5m7NJWzwr7b6c3ruFLoYKE",
+            "id": "5m7NJWzwr7b6c3ruFLoYKE",
+            "uri": "spotify:track:5m7NJWzwr7b6c3ruFLoYKE"
+        },
+        {
+            "name": "The City Gates",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5Pz3hPxKVi1CMsqz2IJ2Ip",
+            "id": "5Pz3hPxKVi1CMsqz2IJ2Ip",
+            "uri": "spotify:track:5Pz3hPxKVi1CMsqz2IJ2Ip"
+        },
+        {
+            "name": "Silent Footsteps",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/33K0a5BxrELWS7K2QRvuNK",
+            "id": "33K0a5BxrELWS7K2QRvuNK",
+            "uri": "spotify:track:33K0a5BxrELWS7K2QRvuNK"
+        },
+        {
+            "name": "Dragonsreach",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/7iO73Ey8DIRqgYemC31MAT",
+            "id": "7iO73Ey8DIRqgYemC31MAT",
+            "uri": "spotify:track:7iO73Ey8DIRqgYemC31MAT"
+        },
+        {
+            "name": "Tooth and Claw",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/6CwgCRhQZfyA4f2JjZsmqL",
+            "id": "6CwgCRhQZfyA4f2JjZsmqL",
+            "uri": "spotify:track:6CwgCRhQZfyA4f2JjZsmqL"
+        },
+        {
+            "name": "Under an Ancient Sun",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/044i228nV0xscyFixACnGV",
+            "id": "044i228nV0xscyFixACnGV",
+            "uri": "spotify:track:044i228nV0xscyFixACnGV"
+        },
+        {
+            "name": "Death or Sovngarde",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/17YQ4kqTRCBL2is5u7x2F3",
+            "id": "17YQ4kqTRCBL2is5u7x2F3",
+            "uri": "spotify:track:17YQ4kqTRCBL2is5u7x2F3"
+        },
+        {
+            "name": "Masser",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/6Nk21GhMyF94odL6anY2S7",
+            "id": "6Nk21GhMyF94odL6anY2S7",
+            "uri": "spotify:track:6Nk21GhMyF94odL6anY2S7"
+        },
+        {
+            "name": "Distant Horizons",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5kgsZwbJDvfYu8XVyr8vq2",
+            "id": "5kgsZwbJDvfYu8XVyr8vq2",
+            "uri": "spotify:track:5kgsZwbJDvfYu8XVyr8vq2"
+        },
+        {
+            "name": "Dawn",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/7BgGqfUHoVhlY0wG8srCoC",
+            "id": "7BgGqfUHoVhlY0wG8srCoC",
+            "uri": "spotify:track:7BgGqfUHoVhlY0wG8srCoC"
+        },
+        {
+            "name": "The Jerall Mountains",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/25peUDbPbguTANNgTiKBsB",
+            "id": "25peUDbPbguTANNgTiKBsB",
+            "uri": "spotify:track:25peUDbPbguTANNgTiKBsB"
+        },
+        {
+            "name": "Steel on Steel",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/54fKcXPHBtnVbAM1WYCY1f",
+            "id": "54fKcXPHBtnVbAM1WYCY1f",
+            "uri": "spotify:track:54fKcXPHBtnVbAM1WYCY1f"
+        },
+        {
+            "name": "Secunda",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/38ineLIzGIXTGd8ICMvHXb",
+            "id": "38ineLIzGIXTGd8ICMvHXb",
+            "uri": "spotify:track:38ineLIzGIXTGd8ICMvHXb"
+        },
+        {
+            "name": "Imperial Throne",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/0cEHjKgI50sMqi46DTrNDP",
+            "id": "0cEHjKgI50sMqi46DTrNDP",
+            "uri": "spotify:track:0cEHjKgI50sMqi46DTrNDP"
+        },
+        {
+            "name": "Frostfall",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/59EwhTDL5FeLfKHXwQwNzz",
+            "id": "59EwhTDL5FeLfKHXwQwNzz",
+            "uri": "spotify:track:59EwhTDL5FeLfKHXwQwNzz"
+        },
+        {
+            "name": "Night Without Stars",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/6nKgklC4KSiXDoUfXwctne",
+            "id": "6nKgklC4KSiXDoUfXwctne",
+            "uri": "spotify:track:6nKgklC4KSiXDoUfXwctne"
+        },
+        {
+            "name": "Into Darkness",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/1WeTT6aQLAi5n4aluUdE1W",
+            "id": "1WeTT6aQLAi5n4aluUdE1W",
+            "uri": "spotify:track:1WeTT6aQLAi5n4aluUdE1W"
+        },
+        {
+            "name": "Kyne's Peace",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/4PNeUzpdtebym9qcjsiF9h",
+            "id": "4PNeUzpdtebym9qcjsiF9h",
+            "uri": "spotify:track:4PNeUzpdtebym9qcjsiF9h"
+        },
+        {
+            "name": "Unbound",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/4IuYZqG5bmPo1b2RZWTrTh",
+            "id": "4IuYZqG5bmPo1b2RZWTrTh",
+            "uri": "spotify:track:4IuYZqG5bmPo1b2RZWTrTh"
+        },
+        {
+            "name": "Far Horizons",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5gN0QgUj2FlvG8LTdkh1YB",
+            "id": "5gN0QgUj2FlvG8LTdkh1YB",
+            "uri": "spotify:track:5gN0QgUj2FlvG8LTdkh1YB"
+        },
+        {
+            "name": "A Winter's Tale",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/0dPEoLZnCpHV88wA6sAAPL",
+            "id": "0dPEoLZnCpHV88wA6sAAPL",
+            "uri": "spotify:track:0dPEoLZnCpHV88wA6sAAPL"
+        },
+        {
+            "name": "The Bannered Mare",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/3wIE1Hokf2kiL6bA4Setjq",
+            "id": "3wIE1Hokf2kiL6bA4Setjq",
+            "uri": "spotify:track:3wIE1Hokf2kiL6bA4Setjq"
+        },
+        {
+            "name": "The Streets of Whiterun",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/31vc8VMdqPRTExkgTp7hib",
+            "id": "31vc8VMdqPRTExkgTp7hib",
+            "uri": "spotify:track:31vc8VMdqPRTExkgTp7hib"
+        },
+        {
+            "name": "One They Fear",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/1efJ6jfQIujuAe8PkbIzRF",
+            "id": "1efJ6jfQIujuAe8PkbIzRF",
+            "uri": "spotify:track:1efJ6jfQIujuAe8PkbIzRF"
+        },
+        {
+            "name": "The White River",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/336vmFan89Rsu86JcjDCMM",
+            "id": "336vmFan89Rsu86JcjDCMM",
+            "uri": "spotify:track:336vmFan89Rsu86JcjDCMM"
+        },
+        {
+            "name": "Silence Unbroken",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/2NtIfDosuZf7ppHUZ8MYjA",
+            "id": "2NtIfDosuZf7ppHUZ8MYjA",
+            "uri": "spotify:track:2NtIfDosuZf7ppHUZ8MYjA"
+        },
+        {
+            "name": "Standing Stones",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/3lpspcnV04Wtz9UggIn2jI",
+            "id": "3lpspcnV04Wtz9UggIn2jI",
+            "uri": "spotify:track:3lpspcnV04Wtz9UggIn2jI"
+        },
+        {
+            "name": "Beneath the Ice",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/4dq40TAeKirkuWgelbkeO7",
+            "id": "4dq40TAeKirkuWgelbkeO7",
+            "uri": "spotify:track:4dq40TAeKirkuWgelbkeO7"
+        },
+        {
+            "name": "Tundra",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/2buseAegCLo7my9g4PhjpY",
+            "id": "2buseAegCLo7my9g4PhjpY",
+            "uri": "spotify:track:2buseAegCLo7my9g4PhjpY"
+        },
+        {
+            "name": "Journey's End",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/1ueKNH4LNFeSUxi0TxYvf2",
+            "id": "1ueKNH4LNFeSUxi0TxYvf2",
+            "uri": "spotify:track:1ueKNH4LNFeSUxi0TxYvf2"
+        },
+        {
+            "name": "Before the Storm",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/1NBHHNTDZ6lq3SnkytCkOC",
+            "id": "1NBHHNTDZ6lq3SnkytCkOC",
+            "uri": "spotify:track:1NBHHNTDZ6lq3SnkytCkOC"
+        },
+        {
+            "name": "A Chance Meeting",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/6rSz5FeSwa7csLJhUObZAC",
+            "id": "6rSz5FeSwa7csLJhUObZAC",
+            "uri": "spotify:track:6rSz5FeSwa7csLJhUObZAC"
+        },
+        {
+            "name": "Out of the Cold",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/3mnrZOLgNGyecHitpBoT5m",
+            "id": "3mnrZOLgNGyecHitpBoT5m",
+            "uri": "spotify:track:3mnrZOLgNGyecHitpBoT5m"
+        },
+        {
+            "name": "Around the Fire",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/2O3ZKJEwXfsUjnsQkgR3UJ",
+            "id": "2O3ZKJEwXfsUjnsQkgR3UJ",
+            "uri": "spotify:track:2O3ZKJEwXfsUjnsQkgR3UJ"
+        },
+        {
+            "name": "Shadows and Echoes",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5S4TVklO4wH5pXEGBRUlmf",
+            "id": "5S4TVklO4wH5pXEGBRUlmf",
+            "uri": "spotify:track:5S4TVklO4wH5pXEGBRUlmf"
+        },
+        {
+            "name": "Caught off Guard",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/273HReugzjKblrjcWDljdr",
+            "id": "273HReugzjKblrjcWDljdr",
+            "uri": "spotify:track:273HReugzjKblrjcWDljdr"
+        },
+        {
+            "name": "Aurora",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/36YDLpdwlBlubt3P5JaNEd",
+            "id": "36YDLpdwlBlubt3P5JaNEd",
+            "uri": "spotify:track:36YDLpdwlBlubt3P5JaNEd"
+        },
+        {
+            "name": "Blood and Steel",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5lWpPA08WIGI5cCGT5X1xB",
+            "id": "5lWpPA08WIGI5cCGT5X1xB",
+            "uri": "spotify:track:5lWpPA08WIGI5cCGT5X1xB"
+        },
+        {
+            "name": "Towers and Shadows",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/6mfT1CMpLdGvocmjoCFDUr",
+            "id": "6mfT1CMpLdGvocmjoCFDUr",
+            "uri": "spotify:track:6mfT1CMpLdGvocmjoCFDUr"
+        },
+        {
+            "name": "Seven Thousand Steps",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5KTTN2MVdLzmGTZQ3eMQZ6",
+            "id": "5KTTN2MVdLzmGTZQ3eMQZ6",
+            "uri": "spotify:track:5KTTN2MVdLzmGTZQ3eMQZ6"
+        },
+        {
+            "name": "Solitude",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5TNw4nOuqGKqeJGZWJX2xH",
+            "id": "5TNw4nOuqGKqeJGZWJX2xH",
+            "uri": "spotify:track:5TNw4nOuqGKqeJGZWJX2xH"
+        },
+        {
+            "name": "Watch the Skies",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5NcRBtKMeFxVobiBAnTsoP",
+            "id": "5NcRBtKMeFxVobiBAnTsoP",
+            "uri": "spotify:track:5NcRBtKMeFxVobiBAnTsoP"
+        },
+        {
+            "name": "The Gathering Storm",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/2CAMj9PvLqSHt5U5dH9duG",
+            "id": "2CAMj9PvLqSHt5U5dH9duG",
+            "uri": "spotify:track:2CAMj9PvLqSHt5U5dH9duG"
+        },
+        {
+            "name": "Sky Above, Voice Within",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/6PQPBcg5psZ19vLHtt0fAt",
+            "id": "6PQPBcg5psZ19vLHtt0fAt",
+            "uri": "spotify:track:6PQPBcg5psZ19vLHtt0fAt"
+        },
+        {
+            "name": "Death in the Darkness",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/0YhONfgdXk7FoDV6ZRxXLd",
+            "id": "0YhONfgdXk7FoDV6ZRxXLd",
+            "uri": "spotify:track:0YhONfgdXk7FoDV6ZRxXLd"
+        },
+        {
+            "name": "Shattered Shields",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/1eLXiznMMXBsUAEzr5w5yW",
+            "id": "1eLXiznMMXBsUAEzr5w5yW",
+            "uri": "spotify:track:1eLXiznMMXBsUAEzr5w5yW"
+        },
+        {
+            "name": "Sovngarde",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/0tijGe2wbYrWFGouNBmUWh",
+            "id": "0tijGe2wbYrWFGouNBmUWh",
+            "uri": "spotify:track:0tijGe2wbYrWFGouNBmUWh"
+        },
+        {
+            "name": "Wind Guide You",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/291GdSYTgvNJwuE3CV4xNR",
+            "id": "291GdSYTgvNJwuE3CV4xNR",
+            "uri": "spotify:track:291GdSYTgvNJwuE3CV4xNR"
+        },
+        {
+            "name": "Skyrim Atmospheres",
+            "artists": [
+                "Jeremy Soule",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5xxXfCUhzkvg9hvy5XbYWs",
+            "id": "5xxXfCUhzkvg9hvy5XbYWs",
+            "uri": "spotify:track:5xxXfCUhzkvg9hvy5XbYWs"
+        },
+        {
+            "name": "Dragonborn",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/5aSnQV1VWVkzRNFsv9q5lw",
+            "id": "5aSnQV1VWVkzRNFsv9q5lw",
+            "uri": "spotify:track:5aSnQV1VWVkzRNFsv9q5lw"
+        },
+        {
+            "name": "Aurora",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/4OfsV4xT8FSwnRj1Th52Nu",
+            "id": "4OfsV4xT8FSwnRj1Th52Nu",
+            "uri": "spotify:track:4OfsV4xT8FSwnRj1Th52Nu"
+        },
+        {
+            "name": "Far Horizons",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/0viyWNAKK3BIxYTTaCGCZo",
+            "id": "0viyWNAKK3BIxYTTaCGCZo",
+            "uri": "spotify:track:0viyWNAKK3BIxYTTaCGCZo"
+        },
+        {
+            "name": "Unbroken Road",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/0sn2KFvF8w1OMMk9pOF9Wp",
+            "id": "0sn2KFvF8w1OMMk9pOF9Wp",
+            "uri": "spotify:track:0sn2KFvF8w1OMMk9pOF9Wp"
+        },
+        {
+            "name": "Around the Fire",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/2mySyxV27YADIk9dVkNYzx",
+            "id": "2mySyxV27YADIk9dVkNYzx",
+            "uri": "spotify:track:2mySyxV27YADIk9dVkNYzx"
+        },
+        {
+            "name": "Sky Above, Voice Within",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/04UXWs6t5hdAWw083kK3NY",
+            "id": "04UXWs6t5hdAWw083kK3NY",
+            "uri": "spotify:track:04UXWs6t5hdAWw083kK3NY"
+        },
+        {
+            "name": "Death or Sovngarde",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/35fsxYhZapzaz2fMk2O4Nf",
+            "id": "35fsxYhZapzaz2fMk2O4Nf",
+            "uri": "spotify:track:35fsxYhZapzaz2fMk2O4Nf"
+        },
+        {
+            "name": "Kyne's Peace",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/2DTfv9aSTrdvVdVHRiOJKH",
+            "id": "2DTfv9aSTrdvVdVHRiOJKH",
+            "uri": "spotify:track:2DTfv9aSTrdvVdVHRiOJKH"
+        },
+        {
+            "name": "The Streets of Whiterun",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/3ReW0zFFTcF8rfy2weFZ9R",
+            "id": "3ReW0zFFTcF8rfy2weFZ9R",
+            "uri": "spotify:track:3ReW0zFFTcF8rfy2weFZ9R"
+        },
+        {
+            "name": "From Past to Present",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/4XYPYsdxLcOo7e6fRoWNqZ",
+            "id": "4XYPYsdxLcOo7e6fRoWNqZ",
+            "uri": "spotify:track:4XYPYsdxLcOo7e6fRoWNqZ"
+        },
+        {
+            "name": "One They Fear",
+            "artists": [
+                "London Symphony Orchestra",
+                "London Voices",
+                "The Elder Scrolls"
+            ],
+            "external_url_spotify": "https://open.spotify.com/track/3AX0sMsdI5aDgsPv0hZnRY",
+            "id": "3AX0sMsdI5aDgsPv0hZnRY",
+            "uri": "spotify:track:3AX0sMsdI5aDgsPv0hZnRY"
         }
     ]
 }

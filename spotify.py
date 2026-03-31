@@ -37,6 +37,13 @@ playlist_name = "Reading Soundscape"
 playlist_id = "03zQ7dGtiuYH1GqtG9rXAt"
 output_file = "reading_soundscape_data.json"
 
+'''
+space opera 7lG5FBQLh9SphZt6zMAPSm
+horror 7LsuvpoYOgj0zvh6YBpRSh
+space pirates 6Bbhc9e4fbQiLkFnP1CWlk
+spy thriller 1oNnKOronxjSEnXULEbJsZ
+'''
+
 all_items = []
 results = sp.playlist_tracks(playlist_id, limit=100)
 all_items.extend(results["items"])

@@ -39,3 +39,4 @@ dist/
 *.ipynb_checkpoints
 data/
 output/
+audio_cache/
