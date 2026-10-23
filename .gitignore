@@ -40,3 +40,10 @@ dist/
 data/
 output/
 audio_cache/
+
+# ---- Spotipy OAuth token cache (contains access + refresh tokens) ----
+.cache
+.cache-*
+
+# ---- Audio working dirs ----
+temp_audio/

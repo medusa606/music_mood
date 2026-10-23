@@ -1,6 +1,10 @@
 python-dotenv
 spotipy
-dotenv
-pathlib
-yt_dlp
+requests
+numpy
+essentia
 
+# optional: panns.py experiment
+# panns-inference
+# librosa
+# torch
