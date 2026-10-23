@@ -3,7 +3,7 @@
 **Estimates the emotional feel (Valence/Arousal) of soundtrack music, so a book's mood can be
 matched to the right track.**
 
-This is the *music side* of [**Manuscript**](https://github.com/medusa606/manuscript_app), an app
+This is the *music side* of [**Music Supervisor**](https://github.com/medusa606/manuscript_app) (working title), an app
 that scores music to the book you're reading. Its sister repo
 [**emotion-reader**](https://github.com/medusa606/emotion-reader) places each page of a book on the
 same Valence/Arousal map, so the app can pick the track whose mood is closest to the current scene.
@@ -18,8 +18,8 @@ same Valence/Arousal map, so the app can pick the track whose mood is closest to
 
 ```text
  ┌──────────────────┐   ┌──────────────────┐   ┌──────────────────────────┐
- │ book catalogue   │   │ emotion-reader   │   │ music_mood               │
- │ (LLM metadata)   │   │ (book VA curve)  │   │ ◄── YOU ARE HERE         │
+ │ db_builder       │   │ emotion-reader   │   │ music_mood               │
+ │ (book metadata)  │   │ (book VA curve)  │   │ ◄── YOU ARE HERE         │
  └────────┬─────────┘   └────────┬─────────┘   └────────────┬─────────────┘
           │                      ┆ page VA                  ┆ track VA
           ▼                      ▼                          ▼
